@@ -5,6 +5,11 @@ GameMaker Version Used: ```2023.2```
 
 Other GameMaker Versions might work, but Newer Versions might not display the "Downloading Data" Loading Bar
 
+> [!NOTE]
+> This uses my Pizza Tower 1.1.0 Web Port as the Base, so the website's Title and Github Repo will all reflect that
+>
+> Also, this will work out-of-the-box with any GMS2 Project compiled to GX.GAMES Export (as a VM Test Run), but if you compile it as a YYC Test Run, you will have to change functions ```manifestFiles()``` and ```manifestFilesMD5()``` to be the same as the YYC runner.html
+
 ## Context
 runner.html is a file that runs a GameMaker Studio 2 project that was compiled for GX.GAMES as a Test Run, and is compiled along with the project files when compiling a test run, but runner.html is very basic and has ussless functions, and that brings us to betterrunner.html
 
