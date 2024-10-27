@@ -1,6 +1,10 @@
 # BetterRunner
 A replacement for runner.html (GX.GAMES Test Output) with many New Features
 
+GameMaker Version Used: ```2023.2```
+
+Other GameMaker Versions might work, but Newer Versions might not display the "Downloading Data" Loading Bar
+
 ## Context
 runner.html is a file that runs a GameMaker Studio 2 project that was compiled for GX.GAMES as a Test Run, and is compiled along with the project files when compiling a test run, but runner.html is very basic and has ussless functions, and that brings us to betterrunner.html
 
@@ -25,6 +29,13 @@ New Buttons:
 
 ### Background Color Changer
 There is now a Background Color Changer that changes the Background of the Website to Any Color you wish
+
+Default Background Color is Black
+
+Background also is no longer a Radial Gradient, but instead a Solid Color of your choice
+
+### Better Favicon Support
+If ```favicon.png``` is available and in the same folder as betterrunner.html, then it will be used as the Website's Icon
 
 And that's all
 > [!WARNING]
