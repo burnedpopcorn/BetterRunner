@@ -1,7 +1,7 @@
 # BetterRunner
 A replacement for runner.html (GX.GAMES Test Output) with many New Features
 
-GameMaker Version Used: ```2023.2```
+GameMaker Version Used: ```2023.2 (VM COMPILED) - 2024.2 (YYC COMPILED)```
 
 Other GameMaker Versions might work, but Newer Versions might not display the "Downloading Data" Loading Bar
 
